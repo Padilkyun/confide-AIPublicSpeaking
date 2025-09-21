@@ -9,14 +9,12 @@ const Features = () => {
       icon: Mic,
       title: "Analisis Suara Real-time",
       description: "Pemantauan parameter suara seperti kecepatan, intonasi, dan kejelasan berbicara secara langsung.",
-      image: voiceWaves,
       color: "text-primary"
     },
     {
       icon: Brain,
       title: "AI Feedback Cerdas",
       description: "Feedback berbasis model AI yang memberikan saran praktis dan personal untuk meningkatkan kemampuan berbicara.",
-      image: aiBrain,
       color: "text-accent"
     },
     {

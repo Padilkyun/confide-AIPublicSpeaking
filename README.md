@@ -1,73 +1,23 @@
-# Welcome to your Lovable project
+# SpeakAI - Virtual Public Speaking Training Platform
 
-## Project info
+## Project Overview
 
-**URL**: https://lovable.dev/projects/cf3a7920-636b-4c2e-807c-ab3750e84658
+SpeakAI is a web-based, AI-powered platform designed to help users overcome Public Speaking Anxiety (PSA). It provides a virtual training environment where users can practice speaking in front of an audience, whether it be through simulated presentations or group discussions. The platform includes real-time voice analysis, personalized AI feedback, and tailored exercises to enhance public speaking skills and manage anxiety effectively.
 
-## How can I edit this code?
+## Key Features
 
-There are several ways of editing your application.
+- **Virtual Public Speaking Training**: Practice speaking in front of an audience with realistic scenarios, such as presentations or group discussions.
+- **AI-powered Voice Analysis**: Monitor physical conditions and voice quality in real-time, providing insightful metrics and feedback.
+- **Instant AI Feedback**: Receive personalized, actionable suggestions to improve speaking techniques and manage PSA.
+- **Flexible Practice**: Access training anytime, anywhere, allowing for continuous improvement and progress tracking.
 
-**Use Lovable**
+## How to Use
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/cf3a7920-636b-4c2e-807c-ab3750e84658) and start prompting.
+### Local Development
 
-Changes made via Lovable will be committed automatically to this repo.
+Ensure you have Node.js and npm installed on your local machine.
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+1. **Clone the repository**:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/cf3a7920-636b-4c2e-807c-ab3750e84658) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+git clone https://github.com/yourusername/confide.git

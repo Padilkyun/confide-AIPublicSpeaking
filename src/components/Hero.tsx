@@ -14,11 +14,7 @@ const Hero = () => {
           {/* Content */}
           <div className="space-y-8 animate-fade-in">
             <div className="space-y-4">
-              <div className="inline-flex items-center px-4 py-2 rounded-full bg-primary/10 text-primary font-medium text-sm border border-primary/20">
-                <Brain className="w-4 h-4 mr-2" />
-                Platform AI-Powered Training
-              </div>
-              
+             
               <h1 className="text-4xl md:text-6xl font-bold text-foreground leading-tight">
                 Kuasai Seni
                 <span className="bg-gradient-primary bg-clip-text text-transparent"> Public Speaking</span>
